@@ -1,0 +1,10 @@
+C:\GitHub\Anvil\Anvil.Repo.01\obj\Debug\Anvil.csprojResolveAssemblyReference.cache
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\Anvil.dll.config
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\Anvil.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\Anvil.pdb
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\EntityFramework.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\EntityFramework.xml
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Anvil\Anvil.Repo.01\obj\Debug\Anvil.dll
+C:\GitHub\Anvil\Anvil.Repo.01\obj\Debug\Anvil.pdb

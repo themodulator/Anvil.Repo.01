@@ -1,0 +1,9 @@
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\Anvil.dll.config
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\Anvil.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\Anvil.pdb
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\EntityFramework.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\EntityFramework.SqlServer.dll
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\EntityFramework.xml
+C:\GitHub\Anvil\Anvil.Repo.01\bin\Release\EntityFramework.SqlServer.xml
+C:\GitHub\Anvil\Anvil.Repo.01\obj\Release\Anvil.dll
+C:\GitHub\Anvil\Anvil.Repo.01\obj\Release\Anvil.pdb
